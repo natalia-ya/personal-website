@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: ;
+}
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.hero {
+  height: 900px;
+  background-image: url("../img/360_F_191729510_Akww0cp8tUtfM7i1pI9R0aNWIniSV1gV.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
